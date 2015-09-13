@@ -11,7 +11,7 @@ baseurl: ""
 markdown: kramdown
 permalink: pretty
 collections:
-  house:
+  houses:
     output: true
 
 # Other
