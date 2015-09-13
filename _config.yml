@@ -1,0 +1,27 @@
+# Site settings
+title: "All the Ducks Are Swimming in the Water"
+email: liz.and.chris.dukes@gmail.com
+description: "Liz and Chris Dukes Family Blog"
+baseurl: ""
+#url: "http://yourdomain.com"
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+# Other
+tag_title_prefix: '&ldquo;'
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      layout: "post"
