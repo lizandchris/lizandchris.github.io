@@ -1,8 +1,16 @@
 ---
 title: Tags
 ---
+{% assign tags = site.tags | sort %}
+# Table of Contents
+{% for tag in tags %}
+  {% assign t = tag | first %}
+  {% assign dt = t | downcase | replace:" ","-" %}
+* [{{dt}}](#{{dt}})
+{% endfor %}
 # Tags
-{% for tag in site.tags %}
+
+{% for tag in tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
   {% assign dt = t | downcase | replace:" ","-" %}

@@ -1,5 +1,5 @@
 ---
-title: "House Plans Chris and Liz Like."
+title: "Ideas for the Next House"
 ---
 ## David Wright Plans
 * This was the first plan that caught our eye [Farm House #452-1](http://www.houseplans.com/plan/1920-square-feet-3-bedrooms-2-bathroom-farm-house-plans-0-garage-33237) ![David Wright Farm House](http://cdn.houseplans.com/product/917qb9qu9siechbnktkuvm84a1/w800x533.jpg?v=7)
@@ -40,10 +40,10 @@ title: "House Plans Chris and Liz Like."
 * Has too many levels, but interesting as a rental house.  [Craftsman 3 Story #888-12](http://www.houseplans.com/plan/2830-square-feet-3-bedroom-3-bathroom-0-garage-bungalow-38959) ![Nicholas Lee Craftsman 3 Story 888-12](http://cdn.houseplans.com/product/2h9en91db00n35po8ru9rlu3nm/w800x533.jpg?v=6)
 * [Nicholas Lee Garage #888-14](http://www.houseplans.com/plan/2415-square-feet-2-bedroom-2-bathroom-0-garage-ranch-39222)
 
-## Vendor 39
+## [Vendor 39](http://www.houseplans.com/search?vendorId=39)
 * 48-### style houseplan numbers
 
-## Vendor 107
+## [Vendor 107](http://www.houseplans.com/search?vendorId=107)
 * 120-### style houseplan numbers
 
 ## [Historic Shed](http://www.houseplans.com/exclusive/historic-shed)

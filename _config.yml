@@ -5,7 +5,8 @@ description: "Liz and Chris Dukes Family Blog"
 baseurl: ""
 #url: "http://yourdomain.com"
 #twitter_username: jekyllrb
-#github_username:  jekyll
+github_username:  lizandchris
+# excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
@@ -15,7 +16,6 @@ collections:
     output: true
 
 # Other
-tag_title_prefix: '&ldquo;'
 defaults:
   -
     scope:
@@ -32,6 +32,6 @@ defaults:
   -
     scope:
       path: ""
-      type: "house"
+      type: "houses"
     values:
       layout: "page"
